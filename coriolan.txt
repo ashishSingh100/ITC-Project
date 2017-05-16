@@ -1,0 +1,1 @@
+When a string is converted to arithmetic encoding, frequently used ... symbols and replacing each with a code, arithmetic coding encodes 
